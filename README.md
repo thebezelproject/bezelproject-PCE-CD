@@ -9,4 +9,4 @@ The bezel packs are used in a RetroPie build for providing game bezels.
 
 The graphics in this repository follow the following design.
 
-![Sample bezel](https://github.com/thebezelproject/bezelproject-PCE-CD/blob/master/retroarch/overlay/GameBezels/PCEngine/Battle%20Field%20'94%20in%20Tokyo%20Dome%20(Japan).png?raw=true)
+![Sample bezel](https://github.com/thebezelproject/bezelproject-PCE-CD/blob/master/retroarch/overlay/GameBezels/PCE-CD/Advanced%20Variable%20Geo%20(Japan).png?raw=true)
